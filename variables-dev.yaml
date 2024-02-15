@@ -8,5 +8,5 @@ CART_HOST: cart.app-dev.kunchamthirumala.online
 SHIPPING_HOST: shipping.app-dev.kunchamthirumala.online 
 PAYMENT_HOST: payment.app-dev.kunchamthirumala.online 
 DISPATCH_HOST: dispatch.app-dev.kunchamthirumala.online
-NEXUS_URL: http://172.31.2.82:8081/repository
+NEXUS_URL: http://172.31.7.240:8081/repository
 group_id: "com/roboshop"
