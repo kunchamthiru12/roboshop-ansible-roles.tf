@@ -1,0 +1,10 @@
+MONGODB_HOST: mongodb.kunchamthirumala.online # submit your host
+REDIS_HOST: redis.kunchamthirumala.online
+MYSQL_HOST: mysql.kunchamthirumala.online
+RABBITMQ_HOST: rabbitmq.kunchamthirumala.online
+CATALOGUE_HOST: catalogue.kunchamthirumala.online
+USER_HOST: user.kunchamthirumala.online
+CART_HOST: cart.kunchamthirumala.online
+SHIPPING_HOST: shipping.kunchamthirumala.online
+PAYMENT_HOST: payment.kunchamthirumala.online
+DISPATCH_HOST: dispatch.kunchamthirumala.online

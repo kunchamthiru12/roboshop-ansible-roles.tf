@@ -1,0 +1,12 @@
+MONGODB_HOST: mongodb-dev.kunchamthirumala.online  # submit your host
+REDIS_HOST: redis-dev.kunchamthirumala.online 
+MYSQL_HOST: mysql-dev.kunchamthirumala.online 
+RABBITMQ_HOST: rabbitmq-dev.kunchamthirumala.online 
+CATALOGUE_HOST: catalogue.app-dev.kunchamthirumala.online
+USER_HOST: user.app-dev.kunchamthirumala.online
+CART_HOST: cart.app-dev.kunchamthirumala.online 
+SHIPPING_HOST: shipping.app-dev.kunchamthirumala.online 
+PAYMENT_HOST: payment.app-dev.kunchamthirumala.online 
+DISPATCH_HOST: dispatch.app-dev.kunchamthirumala.online
+NEXUS_URL: http://172.31.2.82:8081/repository
+group_id: "com/roboshop"
